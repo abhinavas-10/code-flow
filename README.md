@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # CodeFlow — Interactive DSA Visualizer
 
 **See the logic. Trace every step.**
@@ -103,3 +104,6 @@ Replace `YOUR_USERNAME` with your GitHub username. Never commit secrets or acces
 - Progress is stored in this browser using localStorage; it is not synced between devices.
 - The FastAPI service currently provides stateless algorithm endpoints and a health check. Authentication and cloud user accounts are intentionally not included.
 - Add screenshots to `docs/screenshots/` after running the app; don't commit fabricated screenshots.
+=======
+# code-flow
+>>>>>>> 00fe4b41b4b2e97f357de7ccfd7dcee487f20f9d
